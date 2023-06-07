@@ -10,11 +10,6 @@ import javax.swing.undo.*;
 import javax.swing.event.*;
 import java.net.*;
 
-/**
- *
- * @author  Noel Draxler
- * @version 10/05/2023
- */
 
 public class editor extends JFrame
 {
